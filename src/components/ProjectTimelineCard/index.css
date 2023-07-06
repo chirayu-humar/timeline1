@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.projectOuter {
+  display: flex;
+  flex-direction: column;
+}
+.imageItem {
+  width: 100%;
+}

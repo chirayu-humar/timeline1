@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.courseOuter {
+  display: flex;
+  flex-direction: column;
+}
+.rowDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.specialList {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.listElement {
+  margin-left: 30px;
+}
